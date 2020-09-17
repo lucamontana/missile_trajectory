@@ -14,11 +14,8 @@ M = 5.9722e24
 
 fac = G * M
 
-
 h = input('Give the height (km) of the missile after the burnout time: ')
 launch_angle = input('Give the launch angle (°) of the missile: ')
-
-#launch_speed, launch_angle = 2.22, 90
 
 
 def calc_a(r):
